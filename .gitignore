@@ -1,0 +1,10 @@
+# IDE settings (PyCharm)
+.idea/
+
+# Windows system files
+desktop.ini
+
+# Optional: другие временные файлы
+__pycache__/
+*.pyc
+.DS_Store   # для macOS
